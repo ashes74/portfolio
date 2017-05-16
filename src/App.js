@@ -11,6 +11,7 @@ class App extends Component {
           <img src={logo_black} alt="LA logo"/>
         </div>
         <div className="content-panel">
+          <h2> From the desk of Lori-Anne Ashwood </h2>
           <p>
             Hi! I'm Lori
           </p>
