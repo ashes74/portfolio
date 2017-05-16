@@ -1,18 +1,19 @@
 import React, { Component } from 'react';
-import logo from '../public/img/logos/L -logo-white.png';
-import './App.css';
+import logo_black from '../public/img/logos/L -logo-black.png'
+import './styles/App.css';
 
 class App extends Component {
   render() {
     return (
       <div className="App">
-        <div className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <h2>Welcome to React</h2>
-        </div>
-        <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
-        </p>
+        <div className="id-panel">
+          <img src={logo_black} alt="LA logo"/> 
+       </div>
+       <div className="content-panel">
+         Hi! 
+
+         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus ab perspiciatis repudiandae esse numquam nihil obcaecati, officiis deserunt aspernatur beatae sunt. Ipsam debitis labore, deserunt, libero rerum laborum ea quibusdam.
+       </div>
       </div>
     );
   }
