@@ -15,7 +15,7 @@ class App extends Component {
          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus ab perspiciatis repudiandae esse numquam nihil obcaecati, officiis deserunt aspernatur beatae sunt. Ipsam debitis labore, deserunt, libero rerum laborum ea quibusdam.
          <div className="buttons">
            <button> Project Portfoliio </button>
-           <button> Resume</button>
+           <button> Resume </button>
            <button> Contact </button>
          </div>
        </div>
